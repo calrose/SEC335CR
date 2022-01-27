@@ -3,5 +3,5 @@
 ## Course
 
 ## Week 1
-[Passive Recon](/calrose/SEC335CR/blob/main/passive-recon)
+[Passive Recon](https://github.com/calrose/SEC335CR/blob/main/passive-recon.md)
 ## Chronological Journal
