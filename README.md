@@ -11,4 +11,6 @@
 
 [Port Scanning 2](https://github.com/calrose/SEC335CR/blob/main/PortScanning2.md)
 ## Chronological Journal
+[Journal 2](https://github.com/calrose/SEC335CR/blob/main/journal2.md)
+
 [Journal 1](https://github.com/calrose/SEC335CR/blob/main/journal.md)
